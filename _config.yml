@@ -1,8 +1,6 @@
-title: "IMLSHOR Indonesia"
-description: "Akhirnya, bisa membuat website. Alhamdulillah"
-include: /AmberRobocarPoliFX/*
 
 # Navigasi menu pada _data dan _include tidak bisa dijalankan. Belum tahu, cek pakai _config.yml
+
 - name: Utama
   link: /
 - name: Blog
@@ -11,3 +9,9 @@ include: /AmberRobocarPoliFX/*
   link: /tentang.html
 - name: "Apa itu?"
   link: /index..html
+
+# Judul dan sebagainya
+
+title: "IMLSHOR Indonesia"
+description: "Akhirnya, bisa membuat website. Alhamdulillah"
+include: /AmberRobocarPoliFX/*
