@@ -1,0 +1,8 @@
+html { margin: 12px 12px 12px 12px; background: black; color: white; word-wrap: break-word; font-family: sans-serif; }
+a { text-decoration: none; color: aqua;}
+a:hover { text-decoration: underline; color: blue;}
+.centeredtext { text-align: center;} .rightedtext { text-align: right;} .justifiedtext { text-align: justify;}
+table { font-family: arial, sans-serif; border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #dddddd; text-align: left; padding: 8px; }
+th { background-color: #555555;}
+.forbid {color:red; font-weight:bold; }
