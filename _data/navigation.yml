@@ -1,0 +1,8 @@
+- name: Utama
+  link: /
+- name: Blog
+  link: /blog.html
+- name: Tentang
+  link: /tentang.html
+- name: Apa itu?
+  link: /index..html
